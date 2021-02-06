@@ -31,7 +31,7 @@ namespace ClassMethodDemo
 
                 Console.WriteLine("Müşteri Şehiri : " + customer.City);
 
-                Console.WriteLine("Müşteri Telefonu : " + customer.Phone);
+
 
                 Console.WriteLine("------------------------------");
 
